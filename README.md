@@ -3,9 +3,9 @@ This notebook is the main entry point for the Stroke Analysis Application projec
 
 # Overview
 The system is structured into three modular components:
--**load_dataset_module:** Handles data loading, preprocessing (imputation, encoding, scaling), and splitting into training and testing sets.
--**eda_module:** Conducts EDA (descriptive statistics, visualizations) and trains classifiers (Logistic Regression, Random Forest, KNN) with SMOTE for class imbalance.
--**ui_module:** Provides a tkinter-based GUI for user interaction, displaying statistics, model metrics, and plots.
+- **load_dataset_module**: Handles data loading, preprocessing (imputation, encoding, scaling), and splitting into training and testing sets.
+- **eda_module**: Conducts EDA (descriptive statistics, visualizations) and trains classifiers (Logistic Regression, Random Forest, KNN) with SMOTE for class imbalance.
+- **ui_module**: Provides a tkinter-based GUI for user interaction, displaying statistics, model metrics, and plots.
 
 # Requirements
 To run the stroke analysis application, ensure the following software and libraries are installed:
