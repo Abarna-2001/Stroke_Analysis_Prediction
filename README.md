@@ -21,6 +21,6 @@ To run the stroke analysis application, ensure the following software and librar
 - `scikit-learn` – For preprocessing, model training, and evaluation  
 - `matplotlib` – For plotting visualizations  
 - `seaborn` – For enhanced statistical visualizations  
-- `imbalanced-learn` – For SMOTE (handling class imbalance)  
+- `imbalanced-learn` – For SMOTE (handling class imbalance)
 - `pillow` – For image processing in the GUI  
 - `tkinter` – Python’s standard library for GUI development
